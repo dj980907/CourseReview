@@ -1,0 +1,27 @@
+<h2>Add a Review</h2>
+
+<form action="/reviews/add" method="post">
+    <label for="courseNumber">Course Number:</label>
+    <input type="text" name="courseNumber" id="courseNumber" required>
+        <br><br>        
+    <label for="courseName">Course Name:</label>
+    <input type="text" name="courseName" id="courseName" required>
+        <br><br>        
+    <label for="semester">Semester:</label>
+    <select name="semester" id="semester" required>
+        <option value="Spring">Spring</option>
+        <option value="Summer">Summer</option>
+        <option value="Fall">Fall</option>
+    </select>
+        <br><br>        
+    <label for="year">Year:</label>
+    <input type="number" name="year" id="year" required>
+        <br><br>       
+    <label for="professor">Professor:</label>
+    <input type="text" name="professor" id="professor" required>
+        <br><br>       
+    <label for="review">Review:</label>
+    <textarea name="review" id="review" required></textarea>
+        <br><br>        
+    <button type="submit">Submit</button>
+</form>
