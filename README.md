@@ -1,5 +1,5 @@
 # Anonymous Course Reviews
-![Screen Recording 2023-12-18 at 10 40 44 PM (1)](https://github.com/dj980907/CourseReview/assets/108609222/b534329a-7395-4648-8104-3d4045d977dd)
+![Screen Recording 2023-12-18 at 10 40 44 PM (2)](https://github.com/dj980907/CourseReview/assets/108609222/4ce1ccf5-f90c-449e-af46-825181b83e46)
 
 ## Description
 
