@@ -1,5 +1,6 @@
 # Anonymous Course Reviews
-![Screen Recording 2023-12-18 at 10 40 44 PM (2)](https://github.com/dj980907/CourseReview/assets/108609222/4ce1ccf5-f90c-449e-af46-825181b83e46)
+
+<img width="1440" alt="Screen Shot 2023-12-18 at 10 49 23 PM" src="https://github.com/dj980907/CourseReview/assets/108609222/3650db99-2932-4c92-b187-ce8d9741d903">
 
 ## Description
 
